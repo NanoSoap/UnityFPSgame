@@ -1,0 +1,959 @@
+fileFormatVersion: 2
+guid: 733b3afbd1921924b939b68e9d935bdd
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bone09
+    100002: Bone13
+    100004: Bone17
+    100006: Bone21
+    100008: Bone25
+    100010: C_Left_Hand
+    100012: C_Right_Hand
+    100014: //RootNode
+    100016: Cube
+    100018: Cube.001
+    100020: Cube.002
+    100022: Dummy01
+    100024: Dummy02
+    100026: Hand_Mesh01
+    100028: Hand_Mesh02
+    100030: Hand_Mesh03
+    100032: HeadCam
+    100034: IK Chain01
+    100036: IK Chain02
+    100038: Left
+    100040: Left 1
+    100042: Left 2
+    100044: Left 3
+    100046: Left 4
+    100048: Left1
+    100050: Left10
+    100052: Left11
+    100054: Left12
+    100056: Left13
+    100058: Left14
+    100060: Left15
+    100062: Left2
+    100064: Left3
+    100066: Left4
+    100068: Left5
+    100070: Left6
+    100072: Left7
+    100074: Left8
+    100076: Left9
+    100078: Left_Hand
+    100080: Left_Hand_End
+    100082: Left_L_Arm
+    100084: Left_L_Arm_End
+    100086: Left_U_Arm
+    100088: Object003
+    100090: Omni01
+    100092: Omni02
+    100094: Omni03
+    100096: Pump
+    100098: Right1
+    100100: Right10
+    100102: Right11
+    100104: Right12
+    100106: Right13
+    100108: Right14
+    100110: Right15
+    100112: Right2
+    100114: Right3
+    100116: Right4
+    100118: Right5
+    100120: Right6
+    100122: Right7
+    100124: Right8
+    100126: Right9
+    100128: Right_Hand
+    100130: Right_Hand_End
+    100132: Right_L_Arm
+    100134: Right_L_Arm_End
+    100136: Right_U_Arm
+    400000: Bone09
+    400002: Bone13
+    400004: Bone17
+    400006: Bone21
+    400008: Bone25
+    400010: C_Left_Hand
+    400012: C_Right_Hand
+    400014: //RootNode
+    400016: Cube
+    400018: Cube.001
+    400020: Cube.002
+    400022: Dummy01
+    400024: Dummy02
+    400026: Hand_Mesh01
+    400028: Hand_Mesh02
+    400030: Hand_Mesh03
+    400032: HeadCam
+    400034: IK Chain01
+    400036: IK Chain02
+    400038: Left
+    400040: Left 1
+    400042: Left 2
+    400044: Left 3
+    400046: Left 4
+    400048: Left1
+    400050: Left10
+    400052: Left11
+    400054: Left12
+    400056: Left13
+    400058: Left14
+    400060: Left15
+    400062: Left2
+    400064: Left3
+    400066: Left4
+    400068: Left5
+    400070: Left6
+    400072: Left7
+    400074: Left8
+    400076: Left9
+    400078: Left_Hand
+    400080: Left_Hand_End
+    400082: Left_L_Arm
+    400084: Left_L_Arm_End
+    400086: Left_U_Arm
+    400088: Object003
+    400090: Omni01
+    400092: Omni02
+    400094: Omni03
+    400096: Pump
+    400098: Right1
+    400100: Right10
+    400102: Right11
+    400104: Right12
+    400106: Right13
+    400108: Right14
+    400110: Right15
+    400112: Right2
+    400114: Right3
+    400116: Right4
+    400118: Right5
+    400120: Right6
+    400122: Right7
+    400124: Right8
+    400126: Right9
+    400128: Right_Hand
+    400130: Right_Hand_End
+    400132: Right_L_Arm
+    400134: Right_L_Arm_End
+    400136: Right_U_Arm
+    2300000: Cube
+    2300002: Object003
+    2300004: Pump
+    3300000: Cube
+    3300002: Object003
+    3300004: Pump
+    4300000: Hand_Mesh01
+    4300002: Hand_Mesh02
+    4300004: Hand_Mesh03
+    4300006: Object003
+    4300008: Pump
+    4300010: Cube
+    7400000: Fire
+    7400002: EnterReload
+    7400004: InsertShell
+    7400006: AfterReload
+    9500000: //RootNode
+    13700000: Hand_Mesh01
+    13700002: Hand_Mesh02
+    13700004: Hand_Mesh03
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChromeMinnae
+    second: {fileID: 2100000, guid: 1a34aedb7b1a94b4fab810aeb6e14631, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold
+    second: {fileID: 2100000, guid: 8927b8b8ab08d16408827ab8541ccb79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: d4fffe1cae2c1084d87ce11a85d0c0bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #77'
+    second: {fileID: 2100000, guid: 06fcf260f5914724b95b18f1f2682615, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #78'
+    second: {fileID: 2100000, guid: 3435c16b25bc940418c5dfae46834499, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #79'
+    second: {fileID: 2100000, guid: 00f934afd372a8b4180920cee479f98c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #80'
+    second: {fileID: 2100000, guid: 00f934afd372a8b4180920cee479f98c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: eb58abe79fca4ed419a0c9f9a92c4617, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: d526c73bd8a5b364a99b3a8856b5850f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004.000
+    second: {fileID: 2100000, guid: ec5918d6584440049ac58c83732c9c00, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Fire
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: C_Left_Hand
+        weight: 1
+      - path: C_Left_Hand/IK Chain02
+        weight: 1
+      - path: C_Right_Hand
+        weight: 1
+      - path: C_Right_Hand/IK Chain01
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Dummy01
+        weight: 1
+      - path: Dummy01/Right_U_Arm
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right1
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right1/Right2
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right1/Right2/Right3
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right1/Right2/Right3/Bone25
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right4
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right4/Right5
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right4/Right5/Right6
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right4/Right5/Right6/Bone09
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right7
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right7/Right8
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right7/Right8/Right9
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right7/Right8/Right9/Bone13
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right10
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right10/Right11
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right10/Right11/Right12
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right10/Right11/Right12/Bone17
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right13
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right13/Right14
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right13/Right14/Right15
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right13/Right14/Right15/Bone21
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right_Hand_End
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_L_Arm_End
+        weight: 1
+      - path: Dummy02
+        weight: 1
+      - path: Dummy02/Left_U_Arm
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left1
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left1/Left2
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left1/Left2/Left3
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left1/Left2/Left3/Left
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left4
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left4/Left5
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left4/Left5/Left6
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left4/Left5/Left6/Left 3
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left7
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left7/Left8
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left7/Left8/Left9
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left7/Left8/Left9/Left 4
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left10
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left10/Left11
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left10/Left11/Left12
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left10/Left11/Left12/Left 1
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left13
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left13/Left14
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left13/Left14/Left15
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left13/Left14/Left15/Left 2
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left_Hand_End
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_L_Arm_End
+        weight: 1
+      - path: Hand_Mesh01
+        weight: 1
+      - path: Hand_Mesh02
+        weight: 1
+      - path: Hand_Mesh03
+        weight: 1
+      - path: HeadCam
+        weight: 1
+      - path: Object003
+        weight: 1
+      - path: Omni01
+        weight: 1
+      - path: Omni02
+        weight: 1
+      - path: Omni03
+        weight: 1
+      - path: Pump
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: EnterReload
+      takeName: Take 001
+      firstFrame: 35
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: C_Left_Hand
+        weight: 1
+      - path: C_Left_Hand/IK Chain02
+        weight: 1
+      - path: C_Right_Hand
+        weight: 1
+      - path: C_Right_Hand/IK Chain01
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Dummy01
+        weight: 1
+      - path: Dummy01/Right_U_Arm
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right1
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right1/Right2
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right1/Right2/Right3
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right1/Right2/Right3/Bone25
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right4
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right4/Right5
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right4/Right5/Right6
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right4/Right5/Right6/Bone09
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right7
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right7/Right8
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right7/Right8/Right9
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right7/Right8/Right9/Bone13
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right10
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right10/Right11
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right10/Right11/Right12
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right10/Right11/Right12/Bone17
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right13
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right13/Right14
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right13/Right14/Right15
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right13/Right14/Right15/Bone21
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right_Hand_End
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_L_Arm_End
+        weight: 1
+      - path: Dummy02
+        weight: 1
+      - path: Dummy02/Left_U_Arm
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left1
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left1/Left2
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left1/Left2/Left3
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left1/Left2/Left3/Left
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left4
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left4/Left5
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left4/Left5/Left6
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left4/Left5/Left6/Left 3
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left7
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left7/Left8
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left7/Left8/Left9
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left7/Left8/Left9/Left 4
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left10
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left10/Left11
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left10/Left11/Left12
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left10/Left11/Left12/Left 1
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left13
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left13/Left14
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left13/Left14/Left15
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left13/Left14/Left15/Left 2
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left_Hand_End
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_L_Arm_End
+        weight: 1
+      - path: Hand_Mesh01
+        weight: 1
+      - path: Hand_Mesh02
+        weight: 1
+      - path: Hand_Mesh03
+        weight: 1
+      - path: HeadCam
+        weight: 1
+      - path: Object003
+        weight: 1
+      - path: Omni01
+        weight: 1
+      - path: Omni02
+        weight: 1
+      - path: Omni03
+        weight: 1
+      - path: Pump
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: InsertShell
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: C_Left_Hand
+        weight: 1
+      - path: C_Left_Hand/IK Chain02
+        weight: 1
+      - path: C_Right_Hand
+        weight: 1
+      - path: C_Right_Hand/IK Chain01
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Dummy01
+        weight: 1
+      - path: Dummy01/Right_U_Arm
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right1
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right1/Right2
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right1/Right2/Right3
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right1/Right2/Right3/Bone25
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right4
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right4/Right5
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right4/Right5/Right6
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right4/Right5/Right6/Bone09
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right7
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right7/Right8
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right7/Right8/Right9
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right7/Right8/Right9/Bone13
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right10
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right10/Right11
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right10/Right11/Right12
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right10/Right11/Right12/Bone17
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right13
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right13/Right14
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right13/Right14/Right15
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right13/Right14/Right15/Bone21
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right_Hand_End
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_L_Arm_End
+        weight: 1
+      - path: Dummy02
+        weight: 1
+      - path: Dummy02/Left_U_Arm
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left1
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left1/Left2
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left1/Left2/Left3
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left1/Left2/Left3/Left
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left4
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left4/Left5
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left4/Left5/Left6
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left4/Left5/Left6/Left 3
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left7
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left7/Left8
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left7/Left8/Left9
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left7/Left8/Left9/Left 4
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left10
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left10/Left11
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left10/Left11/Left12
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left10/Left11/Left12/Left 1
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left13
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left13/Left14
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left13/Left14/Left15
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left13/Left14/Left15/Left 2
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left_Hand_End
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_L_Arm_End
+        weight: 1
+      - path: Hand_Mesh01
+        weight: 1
+      - path: Hand_Mesh02
+        weight: 1
+      - path: Hand_Mesh03
+        weight: 1
+      - path: HeadCam
+        weight: 1
+      - path: Object003
+        weight: 1
+      - path: Omni01
+        weight: 1
+      - path: Omni02
+        weight: 1
+      - path: Omni03
+        weight: 1
+      - path: Pump
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: AfterReload
+      takeName: Take 001
+      firstFrame: 72
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: C_Left_Hand
+        weight: 1
+      - path: C_Left_Hand/IK Chain02
+        weight: 1
+      - path: C_Right_Hand
+        weight: 1
+      - path: C_Right_Hand/IK Chain01
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube.001
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Dummy01
+        weight: 1
+      - path: Dummy01/Right_U_Arm
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right1
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right1/Right2
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right1/Right2/Right3
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right1/Right2/Right3/Bone25
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right4
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right4/Right5
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right4/Right5/Right6
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right4/Right5/Right6/Bone09
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right7
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right7/Right8
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right7/Right8/Right9
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right7/Right8/Right9/Bone13
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right10
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right10/Right11
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right10/Right11/Right12
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right10/Right11/Right12/Bone17
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right13
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right13/Right14
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right13/Right14/Right15
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right13/Right14/Right15/Bone21
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_Hand/Right_Hand_End
+        weight: 1
+      - path: Dummy01/Right_U_Arm/Right_L_Arm/Right_L_Arm_End
+        weight: 1
+      - path: Dummy02
+        weight: 1
+      - path: Dummy02/Left_U_Arm
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left1
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left1/Left2
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left1/Left2/Left3
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left1/Left2/Left3/Left
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left4
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left4/Left5
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left4/Left5/Left6
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left4/Left5/Left6/Left 3
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left7
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left7/Left8
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left7/Left8/Left9
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left7/Left8/Left9/Left 4
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left10
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left10/Left11
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left10/Left11/Left12
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left10/Left11/Left12/Left 1
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left13
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left13/Left14
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left13/Left14/Left15
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left13/Left14/Left15/Left 2
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_Hand/Left_Hand_End
+        weight: 1
+      - path: Dummy02/Left_U_Arm/Left_L_Arm/Left_L_Arm_End
+        weight: 1
+      - path: Hand_Mesh01
+        weight: 1
+      - path: Hand_Mesh02
+        weight: 1
+      - path: Hand_Mesh03
+        weight: 1
+      - path: HeadCam
+        weight: 1
+      - path: Object003
+        weight: 1
+      - path: Omni01
+        weight: 1
+      - path: Omni02
+        weight: 1
+      - path: Omni03
+        weight: 1
+      - path: Pump
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.05
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
